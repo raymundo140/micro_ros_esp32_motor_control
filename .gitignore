@@ -1,0 +1,8 @@
+# Ignorar archivos generados por ROS 2 y Micro-ROS
+build/
+install/
+log/
+.venv/
+*.pyc
+*.swp
+.DS_Store
