@@ -74,7 +74,7 @@ Para ajustar la velocidad del motor sin cambiar la dirección, publica un mensaj
   ```
 
 
-### ✅ **Controlar la Dirección del Motor**
+### **Controlar la Dirección del Motor**
 Para cambiar la dirección del motor, publica un mensaje en el tópico `/cmd_dir` con:
 - `1` → Avance (gira en sentido horario)
 - `-1` → Reversa (gira en sentido antihorario)
